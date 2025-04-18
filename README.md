@@ -1,6 +1,3 @@
-Certainly! Here's a professional **README.md** for your **Blockchain Real Estate Investment Platform**. You can copy this directly into your **GitHub repository**.
-
----
 
 # Blockchain Real Estate Investment Platform
 
