@@ -131,10 +131,6 @@ This will start the server on `http://localhost:5000`.
 
 ---
 
-## **License**
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if you need any modifications or additions!
